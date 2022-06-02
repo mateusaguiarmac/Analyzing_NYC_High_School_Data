@@ -1,6 +1,6 @@
 # Analyzing_NYC_High_School_Data
 
-New York City has published data on student SAT scores by high school, along with additional demographic datasets. Below are some datasets that can be analyzed about the characteristics of NYC high schools.
+New York City has published data on student SAT scores by high school, along with additional demographic datasets. Below, there are some datasets that can be analyzed about the characteristics of NYC high schools:
 
 - SAT scores by school - SAT scores for each high school in New York City
 - School attendance - Attendance information for each school in New York City
